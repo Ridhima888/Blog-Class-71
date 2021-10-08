@@ -1,0 +1,55 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel_meanDiv hr{
+    width: 230 px;
+    
+}
+.travel_meanDiv h5,.travel_meanDiv p{
+   margin-left: 20px;   
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 2px;
+    border-radius: 10px;
+    margin-bottom: 15 px;    
+}
+.movie_head i{
+    float : right;
+}
+.movie_text span {
+color: #ff7700;
+}
+.travel_meanDiv{
+    border : 1px solid #c7c7c7;
+    padding-left: 0px;
+    float: none;
+    
+}
+.modal-content{
+    margin-top:100px;
+}
+.img_modal{
+    display:inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.book{
+    cursor:pointer;
+    
+}
